@@ -1,5 +1,5 @@
 /*
- *
+ * CodeSignal/arcade/intro/shapeArea.java 
  *
  * Example
  * 
@@ -18,7 +18,7 @@
  *
  */
  
- int shapeArea(int n) {
+int shapeArea(int n) {
     int numMiddleBoxes = 1 + (2 * (n-1));
     int leftsideArea = 0;
     
