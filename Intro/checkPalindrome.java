@@ -25,8 +25,6 @@
  *
  */
 
-
- 
 boolean checkPalindrome(String inputString) {   
  int i = 0;
  int lastIndex = inputString.length()-1;
