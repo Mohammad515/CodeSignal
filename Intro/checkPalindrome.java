@@ -15,7 +15,7 @@
  *  Als Palindrom werden in der Sprachwissenschaft Wörter, Wortreihen oder Sätze bezeichnet, 
  *  die rückwärts gelesen genau denselben Text oder zumindest einen Sinn ergeben.(Wikipedia).
  *
- * Beispiele
+ * z.B
  * 
  * Für inputString = "aabaa" ist die Ausgabe von checkPalindrome(inputString) = true.
  * Für inputString = "abac" ist die Ausgabe von checkPalindrome(inputString) = false.
