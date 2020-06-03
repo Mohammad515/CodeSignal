@@ -10,7 +10,7 @@
  *
  ******************************************************************************************
  *
- *  Überprüfen Sie, ob der gegebenen String sich um ein Palindrom handelt oder nicht.
+ *  Überprüfen Sie, ob der eingegebene String sich um ein Palindrom handelt oder nicht.
  * 
  *  Als Palindrom werden in der Sprachwissenschaft Wörter, Wortreihen oder Sätze bezeichnet, 
  *  die rückwärts gelesen genau denselben Text oder zumindest einen Sinn ergeben.(Wikipedia).
