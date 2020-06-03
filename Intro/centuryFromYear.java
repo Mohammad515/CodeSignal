@@ -13,7 +13,7 @@
  *  Das erste Jahrhundert erstreckt sich vom ersten Jahr bis einschließlich des Jahres 100, 
  *  das zweite vom Jahr 101 bis einschließlich des Jahres 200 usw.
  *
- *  Beispiele
+ *  z.B
  *
  *  Für Jahr = 1905 sollte die Ausgabe CenturyFromYear (Jahr) = 20 sein;
  *  Für Jahr = 1700 sollte die Ausgabe ab Jahr (Jahr) = 17 sein
