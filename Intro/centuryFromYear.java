@@ -6,6 +6,7 @@
  *
  *  For year = 1905, the output should be centuryFromYear(year) = 20;
  *  For year = 1700, the output should becenturyFromYear(year) = 17
+ *
  *******************************************************************************************
  *
  *  Geben Sie für ein gegebenes Jahr das Jahrhundert zurück, in dem es sich befindet.
