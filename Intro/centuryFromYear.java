@@ -6,7 +6,8 @@
  *
  *  For year = 1905, the output should be centuryFromYear(year) = 20;
  *  For year = 1700, the output should becenturyFromYear(year) = 17
- *
+ */
+/*
  *  Geben Sie für ein gegebenes Jahr das Jahrhundert zurück, in dem es sich befindet.
  *  Das erste Jahrhundert erstreckt sich vom ersten Jahr bis einschließlich des Jahres 100, 
  *  das zweite vom Jahr 101 bis einschließlich des Jahres 200 usw.
@@ -15,11 +16,11 @@
  *
  *  Für Jahr = 1905 sollte die Ausgabe CenturyFromYear (Jahr) = 20 sein;
  *  Für Jahr = 1700 sollte die Ausgabe ab Jahr (Jahr) = 17 sein
- *
- *
- *  @author Mohammad AlMahamed 
- */
- 
+ */ 
+ /*
+  * @author Mohammad AlMahamed  
+  */
+
  
  int centuryFromYear(int year) {
  
