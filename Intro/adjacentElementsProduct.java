@@ -16,7 +16,6 @@
  * z.B
  * 
  *  Für inputArray = [3, 6, -2, -5, 7, 3] sollte die Ausgabe von djacentElementsProduct(inputArray) = 21 sein.
- * 
  *
  *  @author Mohammad AlMahamed 
  *
