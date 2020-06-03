@@ -15,19 +15,16 @@
  *
  */
  
- boolean checkPalindrome(String inputString) {   
-int i = 0;
-int lastIndex = inputString.length()-1;
-char[] charArray = inputString.toCharArray();
+boolean checkPalindrome(String inputString) {   
+ int i = 0;
+ int lastIndex = inputString.length()-1;
+ char[] charArray = inputString.toCharArray();
     
-do {
-   if(charArray[i]!=charArray[lastIndex-i])
-     {
-     return false;
-     }
+ do {
+    if(charArray[i]!=charArray[lastIndex-i])
+      {return false;}
    i++;
-  } 
-while (i <=lastIndex-1);  
-  
+    } 
+ while (i <=lastIndex-1);  
   return true;
 }
