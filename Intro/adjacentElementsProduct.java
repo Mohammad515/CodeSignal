@@ -7,6 +7,17 @@
  * For inputArray = [3, 6, -2, -5, 7, 3], the output should be adjacentElementsProduct(inputArray) = 21 
  * (7 and 3 produce the largest product )
  *
+ ******************************************************************************************
+ *
+ * 
+ * Suchen Sie bei einem Array von Ganzzahlen das Paar benachbarter Elemente mit dem größten Produkt und 
+ * geben Sie dieses Produkt zurück.
+ *
+ * z.B
+ * 
+ *  Für inputArray = [3, 6, -2, -5, 7, 3] sollte die Ausgabe von djacentElementsProduct(inputArray) = 21 sein.
+ * 
+ *
  *  @author Mohammad AlMahamed 
  *
  */
