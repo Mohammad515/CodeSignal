@@ -6,7 +6,7 @@ Arcade
    Intro
     
          add.java <br>
-         centuryFromYear.java          <br> 
+         centuryFromYear.java        
          checkPalindrome.java          <br>
          adjacentElementsProduct.java. <br>
          shapeArea.java                <br>
