@@ -2,9 +2,9 @@
 
 Arcade  
 
- * Intro  
-         add.java <br>
-         centuryFromYear.java        
+ * Intro                               <br>
+         add.java                      <br>
+         centuryFromYear.java          <br>
          checkPalindrome.java          <br>
          adjacentElementsProduct.java. <br>
          shapeArea.java                <br>
