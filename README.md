@@ -1,4 +1,4 @@
-# CodeSignal
+#                                 CodeSignal
 
 Arcade
   * Intro
