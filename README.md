@@ -1,9 +1,9 @@
 # CodeSignal
 
 
-<p>Arcade  </P>
+Arcade  
 
-      * Intro
+   Intro
     
          add.java <br>
          centuryFromYear.java          <br> 
