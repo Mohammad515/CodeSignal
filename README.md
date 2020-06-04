@@ -2,7 +2,7 @@
 
 Arcade  
 
- * Intro                               <br> <br> <br>
+ * Intro                               <br> 
          add.java                      <br>
          centuryFromYear.java          <br>
          checkPalindrome.java          <br>
