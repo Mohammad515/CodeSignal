@@ -1,7 +1,7 @@
 # CodeSignal
 
 
-<font size="3"> Arcade </font> 
+<font size="88"> Arcade </font> 
 
   * Intro
     
