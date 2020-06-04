@@ -1,9 +1,9 @@
 # CodeSignal
 
-Arcade  
+Arcade/Intro  
 
- * Intro                               <br> 
-              add.java                      <br>
+                               <br> 
+          add.java                      <br>
               centuryFromYear.java          <br>
               checkPalindrome.java          <br>
               adjacentElementsProduct.java. <br>
