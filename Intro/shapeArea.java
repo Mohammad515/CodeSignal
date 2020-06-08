@@ -4,15 +4,7 @@
  * Example
  * 
  * For n = 2, the output should be shapeArea(n) = 5;
- * For n = 3, the output should be shapeArea(n) = 13
- *
- ***************************************************************************
- *
- * z.B 
- *
- * Für n = 2 sollte die Ausgabe von shapeArea(n) = 5 sein.
- * Für n = 3 sollte die Ausgabe von shapeArea(n) = 13 sein.
- * 
+ * For n = 3, the output should be shapeArea(n) = 13 
  *
  * @author Mohammad AlMahamed
  *
