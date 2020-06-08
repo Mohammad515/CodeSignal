@@ -11,14 +11,6 @@
  * For statues = [6, 2, 3, 8], the output should be makeArrayConsecutive2(statues) = 3.
  * Ratiorg needs statues of sizes 4, 5 and 7.
  *
- **************************************************************************************************************************
- * 
- *
- * z.B
- *
- * Für statues = [6, 2, 3, 8] sollte die Ausgabe von makeArrayConsecutive2(statues) = 3 sein.
- *
- *
  * @author Mohammad AlMahamed
  *
  */
