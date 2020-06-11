@@ -11,4 +11,5 @@ Arcade/Intro
           * almostIncreasingSequence.java 
           * matrixElementsSum.java        
           * allLongestStrings.java.      
-          * commonCharacterCount.java     
+          * commonCharacterCount.java   
+          * isLucky.java
