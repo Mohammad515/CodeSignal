@@ -14,3 +14,4 @@ Arcade/Intro
           * commonCharacterCount.java   
           * isLucky.java
           * sortByHeight.java
+          *reverseInParentheses.java
