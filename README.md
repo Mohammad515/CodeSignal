@@ -13,3 +13,4 @@ Arcade/Intro
           * allLongestStrings.java.      
           * commonCharacterCount.java   
           * isLucky.java
+          * sortByHeight.java
