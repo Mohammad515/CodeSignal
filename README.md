@@ -16,3 +16,4 @@ Arcade/Intro
           * sortByHeight.java
           * reverseInParentheses.java
           * alternatingSums.java
+          * addBorder.java
