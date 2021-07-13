@@ -46,3 +46,6 @@ Arcade/Intro
           * 42_bishopAndPawn.java
           * 43_isBeautifulString.java
   
+  Arcade/The Core
+
+
